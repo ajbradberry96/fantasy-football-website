@@ -13,10 +13,5 @@ export class VDResult {
 }
 
 export function calculateVd(teams: Team[], matchups: string[][]) {
-    const 
-    return teams.map(team => {
-        // Find opponent
-
-        // Find opponent's score
-    })
+    return;
 }

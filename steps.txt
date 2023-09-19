@@ -4,6 +4,8 @@ Delete basically everything.
 
 Empty model for team (name attribute).
 
-Set up basic web app deployment: https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+Set up basic web app deployment: https://devcenter.heroku.com/articles/github-integration
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 
 Yahoo fantasy API: https://developer.yahoo.com/fantasysports/guide/
