@@ -1,3 +1,7 @@
 Install according to: https://nextjs.org/docs/getting-started/installation#automatic-installation
 
 Delete basically everything.
+
+Empty model for team (name attribute).
+
+Yahoo fantasy API: https://developer.yahoo.com/fantasysports/guide/
