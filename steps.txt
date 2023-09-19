@@ -1,0 +1,3 @@
+Install according to: https://nextjs.org/docs/getting-started/installation#automatic-installation
+
+Delete basically everything.
