@@ -8,4 +8,6 @@ Set up basic web app deployment: https://devcenter.heroku.com/articles/github-in
 
 https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 
+Heroku custom domain: https://devcenter.heroku.com/articles/custom-domains
+
 Yahoo fantasy API: https://developer.yahoo.com/fantasysports/guide/
